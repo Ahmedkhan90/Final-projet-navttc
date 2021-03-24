@@ -1,0 +1,65 @@
+h2,
+h3 {
+  margin: 0.5rem 0;
+}
+h2 {
+  font-size: 1.2rem;
+}
+h3 {
+  font-size: 1rem;
+}
+a {
+  text-decoration: none;
+}
+.row.center {
+  align-items: center;
+}
+.basket{
+  box-shadow: 0 0 10px grey;
+  padding: 40px 20px 40px 20px;
+  color:  black;
+  background-color: yellow;
+  border-radius: 20%;
+}
+button {
+  font-size: 0.8rem;
+  padding: 0.2rem;
+  margin: 0.1rem;
+  border-radius: 0.5rem;
+  border: 0.1rem #404040 solid;
+  background-color: #f0c040;
+  width: 100%;
+  cursor: pointer;
+}
+button.add {
+  background-color: green;
+  color: black;
+  border: none;
+  width: 1.5rem;
+  width: 25px;
+  border-radius: 60%;
+}
+button.remove {
+  background-color: red;
+  color: black;
+  border: none;
+  width: 1.5rem;
+  width: 25px;
+  border-radius: 60%;
+}
+button.badge {
+  background-color: #f04040;
+  border: none;
+  color: #ffffff;
+  width: 1.5rem;
+}
+.btn-light{
+  background-color: green;
+  width: 55px;
+  border-radius: 60%;
+
+}
+.btn-light:hover{
+  background-color: green;
+  /* color: green; */
+}

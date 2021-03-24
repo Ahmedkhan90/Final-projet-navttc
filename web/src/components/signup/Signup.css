@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+    /* width: 1000px; */
+   
+   
+}
+.form{
+    border: 1px solid black;
+ /* background-color: violet;  */
+ /* width: 500px; */
+ border-radius: 100px;
+ height: 500px;
+ color: black;
+
+}
+.form-control , .btn-primary{
+    border-radius: 20px;
+    height: 50px;
+}
+
+.col{
+    text-align: center;
+}
+
